@@ -5,3 +5,4 @@ These cards are designed for a project I'm working on but after looking for hour
 Uploading so others don't have the same rigmarole.  
 
 Quick and easy customisation; just change the CSS :) 
+Example available at https://createlabs.co.uk/_host/cards
